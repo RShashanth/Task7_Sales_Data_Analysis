@@ -52,6 +52,7 @@ This will:
 
 ---
 
+
 ## 📊 Output Example
 
 The analysis prints data like this:
