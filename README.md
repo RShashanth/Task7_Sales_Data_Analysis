@@ -49,6 +49,8 @@ ORDER BY total_revenue DESC;
 This will:
 ✔ Display total quantity and revenue per product  
 ✔ Generate `sales_revenue_chart.png`
+---
+
 
 ---
 
